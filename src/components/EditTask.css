@@ -1,0 +1,11 @@
+#taskContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+form div {
+  margin: 25px 0;
+}
+
